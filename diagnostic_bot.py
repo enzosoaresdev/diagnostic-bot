@@ -18,10 +18,10 @@ while True:
             else:
                 print("Digite apenas 's' para sim ou 'n' para não.")
 
-        if command == "s":
-            print(f"Sugestão: {question['solution']}")
-            answer = True
-            break
+    if command == "s":
+        print(f"Sugestão: {question['solution']}")
+        answer = True
+        break
 
     if not answer:
         new_solution = input("Desisto! Qual era a solução para seu problema? ")
