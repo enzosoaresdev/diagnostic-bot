@@ -1,6 +1,6 @@
 # 🤖 Bot de Diagnóstico
 
-Um projeto simples em Python de uma IA primitiva que busca identificar e solucionar problemas relacionados à informática. O bot aprnde com base nas perguntas e respostas fornecidas pelo usuário.
+Um projeto simples em Python de uma IA primitiva que busca identificar e solucionar problemas relacionados à informática. O bot aprende com base nas perguntas e respostas fornecidas pelo usuário.
 
 ---
 ## 🎲 Estrutura
