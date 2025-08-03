@@ -9,7 +9,7 @@ Um projeto simples em Python de uma IA primitiva que busca identificar e solucio
 - 📦 **Dicionários**
 - 🔁 **Loopings** utilizando **for** e **while**
 - 🔣 **input()** e **print()**, funções de entrada e saída
-- 📐 Estruturas condicionais: **if**, **elif**, **else**.
+- 📐 Estruturas condicionais: **if**, **else**.
 ---
 ## ⚙️ Como funciona
 
