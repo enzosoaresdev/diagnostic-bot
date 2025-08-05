@@ -3,7 +3,15 @@ import os
 knowledge_base = [
     {
         "question": "O problema é relacionado à internet?",
-        "solution": "Verifique os cabos.",
+        "solution": "Verifique os cabos e reinicie o roteador.",
+    },
+    {
+        "question": "O computador está ligando?",
+        "solution": "Verifique se está conectado na tomada ou se há algum problema com a fonte.",
+    },
+    {
+        "question": "Você escuta algum barulho do cooler ou HD?",
+        "solution": "Isso indica que há energia. Pode ser problema no monitor.",
     }
 ]
 
